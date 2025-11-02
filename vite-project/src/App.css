@@ -1,0 +1,20 @@
+/* App component styles */
+h1 {
+  color: #111827;
+  font-size: 2rem;
+}
+
+.card {
+  margin-top: 1rem;
+}
+
+button {
+  background: #0070f3;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover { opacity: 0.9 }
